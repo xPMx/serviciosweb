@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{737ED2F5-C5B6-43C0-9471-E14AF76D25B8}|pe.com.tiendita.ws\\pe.com.tiendita.ws.csproj|c:\\users\\foxme\\onedrive\\escritorio\\net\\laboratorio01\\serviciotiendita\\pe.com.tiendita.ws\\tienditawebservices.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737ED2F5-C5B6-43C0-9471-E14AF76D25B8}|pe.com.tiendita.ws\\pe.com.tiendita.ws.csproj|solutionrelative:pe.com.tiendita.ws\\tienditawebservices.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0BD347-A575-4363-96DF-003938AD68FC}|pe.com.tiendita.dal\\pe.com.tiendita.dal.csproj|C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\dalproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0BD347-A575-4363-96DF-003938AD68FC}|pe.com.tiendita.dal\\pe.com.tiendita.dal.csproj|solutionrelative:pe.com.tiendita.dal\\dalproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96421E02-EB20-4268-861E-36F2B77770F8}|pe.com.tiendita.bo\\pe.com.tiendita.bo.csproj|C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.bo\\boproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96421E02-EB20-4268-861E-36F2B77770F8}|pe.com.tiendita.bo\\pe.com.tiendita.bo.csproj|solutionrelative:pe.com.tiendita.bo\\boproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DF4FFC-EB85-4D46-A58D-12F2E459DB47}|pe.com.tiendita.bal\\pe.com.tiendita.bal.csproj|C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.bal\\balproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DF4FFC-EB85-4D46-A58D-12F2E459DB47}|pe.com.tiendita.bal\\pe.com.tiendita.bal.csproj|solutionrelative:pe.com.tiendita.bal\\balproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BALProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.bal\\BALProducto.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.bal\\BALProducto.cs",
+              "ToolTip": "C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.bal\\BALProducto.cs",
+              "RelativeToolTip": "pe.com.tiendita.bal\\BALProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:44:24.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\DALProducto.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.dal\\DALProducto.cs",
+              "ToolTip": "C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\DALProducto.cs",
+              "RelativeToolTip": "pe.com.tiendita.dal\\DALProducto.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAIwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:43:24.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BOProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.bo\\BOProducto.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.bo\\BOProducto.cs",
+              "ToolTip": "C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.bo\\BOProducto.cs",
+              "RelativeToolTip": "pe.com.tiendita.bo\\BOProducto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:40:55.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TienditaWebServices.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.ws\\TienditaWebServices.asmx.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.ws\\TienditaWebServices.asmx.cs",
+              "ToolTip": "C:\\Users\\Foxme\\OneDrive\\Escritorio\\net\\Laboratorio01\\ServicioTiendita\\pe.com.tiendita.ws\\TienditaWebServices.asmx.cs",
+              "RelativeToolTip": "pe.com.tiendita.ws\\TienditaWebServices.asmx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:18:40.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
